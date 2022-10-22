@@ -10,5 +10,3 @@ parthasarathy27/parthasarathy27 is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 [![@partha_sarathy_76's Holopin board](https://holopin.me/partha_sarathy_76)](https://holopin.io/@partha_sarathy_76)
-
-https://github.com/users/parthasarathy27/achievements/yolo
