@@ -11,5 +11,5 @@ You can click the Preview link to take a look at your changes.
 --->
 [![@partha_sarathy_76's Holopin board](https://holopin.me/partha_sarathy_76)](https://holopin.io/@partha_sarathy_76)
 
-[![@partha_sarathy_76's Halloween 🎃](https://www.cloudskillsboost.google/public_profiles/ad141ffd-eff0-4754-9cf2-efea3e2e43b2/badges/2797474/@partha_sarathy_27)
+
 
