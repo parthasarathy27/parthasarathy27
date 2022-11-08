@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @parthasarathy27.
 - 👀 I’m interested in cloud technology.
 - 🌱 I’m currently learning Blockchain.
-- 💞️ I am eagerly looking forward to our.
+- 💞️ I am eagerly looking forward to intenship chances.
 - 📫 How to reach me in linkedin.
 - linked ID - https://www.linkedin.com/in/partha-sarathy%F0%9F%98%89-99183b200.
 
