@@ -1,4 +1,4 @@
-# Hi, I'm Lennart 👋
+# Hi, I'm Parthasarathy 👋
 
 - 👋 Hi, I’m @parthasarathy27.
 - 👀 I’m interested in cloud technology.
