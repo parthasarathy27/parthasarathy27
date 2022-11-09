@@ -7,7 +7,7 @@ I'm a Google cloud  ☁️ Developer | Hacktoberfest winner #hacktoberfest2022�
 </h2> 
 
 - 👋 Hi, I’m @parthasarathy27.
-- 👀 I’m interested in cloud technology.
+- 👀 I’m interested in cloud technology,cyber security,application development.
 - 🌱 I’m currently learning Blockchain.
 - 💞️ I am eagerly looking forward to intenship chances.
 - 📫 How to reach me in linkedin.
