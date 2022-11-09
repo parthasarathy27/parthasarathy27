@@ -1,5 +1,5 @@
 <h3 align="center">
-Hi there, I'm <a href="https://www.linkedin.com/in/partha-sarathy%F0%9F%98%89-99183b200/" target="_blank" rel="noreferrer">parthasarathy</a> 👋
+Hi there, I'm <a href="https://www.linkedin.com/in/partha-sarathy%F0%9F%98%89-99183b200/" target="_blank" rel="noreferrer">parthasarathy</a>😉👋
 </h3>
 
 <h2 align="center">
@@ -45,7 +45,7 @@ You can click the Preview link to take a look at your changes.
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
-## 💼 Hacktoberfest Badges:
+## 🎖️ Hacktoberfest Badges:
 
 [![@partha_sarathy_76's Holopin board](https://holopin.me/partha_sarathy_76)](https://holopin.io/@partha_sarathy_76)
 
