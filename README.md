@@ -10,7 +10,7 @@ I'm a Google cloud  ☁️ Developer | Hacktoberfest winner #hacktoberfest2022�
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-## Readme_profile
+## Readme_profile:
 - 👋 Hi, I’m @parthasarathy27.
 - 👀 I’m interested in cloud technology,cyber security,application development.
 - 🌱 I’m currently learning Blockchain.
