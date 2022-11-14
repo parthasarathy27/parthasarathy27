@@ -12,12 +12,8 @@ I'm a Google cloud  ☁️ Developer | Hacktoberfest winner #hacktoberfest2022�
 - 💞️ I am eagerly looking forward to intenship chances.
 - 📫 How to reach me in linkedin.
 
-<div id="badges">
-  <a href="linkedin">
-    <img src="https://www.linkedin.com/in/partha-sarathy%F0%9F%98%89-99183b200/">
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 <!---
