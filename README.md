@@ -6,15 +6,15 @@ Hi there, I'm <a href="https://www.linkedin.com/in/partha-sarathy%F0%9F%98%89-99
 I'm a Google cloud  ☁️ Developer | Hacktoberfest winner #hacktoberfest2022✨ | Currently learning #blockchain👨‍💻 | Intrested on #future-📺technology | favorite subject #cybersecurity ♻️ | mobile app📱 Designer 🎨!
 </h2> 
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 - 👋 Hi, I’m @parthasarathy27.
 - 👀 I’m interested in cloud technology,cyber security,application development.
 - 🌱 I’m currently learning Blockchain.
 - 💞️ I am eagerly looking forward to intenship chances.
 - 📫 How to reach me in linkedin.
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
 <!---
 parthasarathy27/parthasarathy27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
