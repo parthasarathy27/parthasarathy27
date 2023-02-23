@@ -18,7 +18,7 @@ I'm a Google cloud  ☁️ Developer | Hacktoberfest winner #hacktoberfest2022�
 - 📫 How to reach me in linkedin.
 
 <!---
-parthasarathy27/parthasarathy27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Parthasarathy27/parthasarathy27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
@@ -49,7 +49,7 @@ You can click the Preview link to take a look at your changes.
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
-## 🎖️ Hacktoberfest Badges:
+## 🎖️ HacktoberFest Badges:
 
 [![@partha_sarathy_76's Holopin board](https://holopin.me/partha_sarathy_76)](https://holopin.io/@partha_sarathy_76)
 
