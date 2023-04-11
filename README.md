@@ -1,5 +1,5 @@
 <h3 align="center">
-Hi there, I'm <a href="https://www.linkedin.com/in/partha-sarathy%F0%9F%98%89-99183b200/" target="_blank" rel="noreferrer">parthasarathy</a>😉👋
+Hi there, I'm <a href="https://www.linkedin.com/in/partha-sarathy%F0%9F%98%89-99183b200/" target="_blank" rel="noreferrer">parthasarathy</a>
 </h3>
 
 <h2 align="center">
@@ -38,7 +38,6 @@ You can click the Preview link to take a look at your changes.
  <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
     <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
     <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-    <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
     <img alt="Kubernets" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
     <img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
