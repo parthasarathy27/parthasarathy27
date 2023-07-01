@@ -55,4 +55,4 @@ You can click the Preview link to take a look at your changes.
 
 ## 👀 Profile views
 
-![Visitor Count](https://profile-counter.glitch.me/{tinniaru3005}/count.svg) 
+![Visitor Count](https://profile-counter.glitch.me/{parthasarathy27}/count.svg) 
