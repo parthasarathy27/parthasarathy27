@@ -53,4 +53,6 @@ You can click the Preview link to take a look at your changes.
 [![@partha_sarathy_76's Holopin board](https://holopin.me/partha_sarathy_76)](https://holopin.io/@partha_sarathy_76)
 
 
+## 👀 Profile views
 
+![Visitor Count](https://profile-counter.glitch.me/{tinniaru3005}/count.svg) 
