@@ -15,7 +15,7 @@ I'm a Google cloud  ☁️ Developer | Hacktoberfest winner #hacktoberfest2022�
 - 👀 I’m interested in cloud technology,cyber security,application development.
 - 🌱 I’m currently learning Blockchain.
 - 💞️ I am eagerly looking forward to intenship chances.
-- 📫 How to reach me in linkedin.
+- 📫 How to reach me in linkedin...
 
 <!---
 Parthasarathy27/parthasarathy27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
