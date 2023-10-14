@@ -1,7 +1,7 @@
 <div align="center">
-<h3>
+<h1>
   Hi there, I'm <a href="https://www.linkedin.com/in/parthasarathy-g/" target="_blank" rel="noreferrer">parthasarathy</a>
-</h3>
+</h1>
 </div>
 
 <h2 align="center">
