@@ -1,4 +1,3 @@
-![image](https://github.com/parthasarathy27/parthasarathy27/assets/83574852/8fc19bd5-269e-48d7-b0d2-a78b42a81a08)<h3 align="center">
 Hi there, I'm <a href="https://www.linkedin.com/in/parthasarathy-g/" target="_blank" rel="noreferrer">parthasarathy</a>
 </h3>
 
