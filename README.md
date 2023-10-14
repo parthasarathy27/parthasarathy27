@@ -1,5 +1,8 @@
-Hi there, I'm <a href="https://www.linkedin.com/in/parthasarathy-g/" target="_blank" rel="noreferrer">parthasarathy</a>
+<div align="center">
+<h3>
+  Hi there, I'm <a href="https://www.linkedin.com/in/parthasarathy-g/" target="_blank" rel="noreferrer">parthasarathy</a>
 </h3>
+</div>
 
 <h2 align="center">
 I'm a Google cloud  ☁️ Developer | Hacktoberfest winner #hacktoberfest2022✨ | Currently learning #blockchain👨‍💻 | Intrested on #future-📺technology | favorite subject #cybersecurity ♻️ | mobile app📱 Designer 🎨!
