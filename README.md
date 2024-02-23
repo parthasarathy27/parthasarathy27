@@ -5,7 +5,7 @@
 </div>
 
 <h2 align="center">
-I'm a cloud  ☁️ Engineer | Hacktoberfest winner #hacktoberfest2022✨ | Currently learning #blockchain👨‍💻 | Intrested on #future-📺technology | favorite subject #cybersecurity ♻️ | Designer 🎨!
+I'm a cloud  ☁️ Engineer | Hacktoberfest Contributer✨ | Currently learning #blockchain👨‍💻 | Intrested on #future-📺technology | favorite subject #cybersecurity ♻️ | Designer 🎨!
 </h2> 
 
 <div align="center">
