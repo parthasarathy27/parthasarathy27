@@ -1,6 +1,6 @@
 <div align="center">
 <h1>
-  Hi there, I'm <a href="https://www.linkedin.com/in/parthasarathy-g/" target="_blank" rel="noreferrer">parthasarathy</a>
+  Hi! there, I'm <a href="https://www.linkedin.com/in/parthasarathy-g/" target="_blank" rel="noreferrer">parthasarathy</a>
 </h1>
 </div>
 
