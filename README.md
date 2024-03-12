@@ -52,8 +52,6 @@ You can click the Preview link to take a look at your changes.
 ## 🎖️ HacktoberFest Badges:
 
 [![@partha_sarathy_76's Holopin board](https://holopin.me/partha_sarathy_76)](https://holopin.io/@partha_sarathy_76) 
-## Hacksquad Ticket:
-[My Ticket](https://www.hacksquad.dev/ticket/parthasarathy27)
 
 ## 🚀 GitHub Stats
 
