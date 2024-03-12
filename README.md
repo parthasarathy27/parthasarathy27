@@ -1,6 +1,6 @@
 <div align="center">
 <h1>
-  Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) there, I'm <a href="https://www.linkedin.com/in/parthasarathy-g/" target="_blank" rel="noreferrer">parthasarathy</a>
+  Hi ![image](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)There, I'm <a href="https://www.linkedin.com/in/parthasarathy-g/" target="_blank" rel="noreferrer">parthasarathy</a>
 </h1>
 </div>
 
