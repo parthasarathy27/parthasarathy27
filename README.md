@@ -1,5 +1,5 @@
 
-![README Github Banner](https://github.com/parthasarathy27/parthasarathy27/assets/83574852/48981342-93cd-476d-a58f-964730afb558)
+![README Github Banner](https://raw.githubusercontent.com/parthasarathy27/parthasarathy27/main/README%20Github%20Banner.png)
 
 ### About Me:
 - 🖥️ Passionate about cloud technology, cyber security, and application development.
