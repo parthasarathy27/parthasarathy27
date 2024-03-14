@@ -12,12 +12,17 @@ I'm a cloud  ☁️ Engineer | Hacktoberfest Contributer✨ | Currently learning
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-## Readme😉profile:
-- 👋 Hi, I’m [@parthasarathy27](https://github.com/parthasarathy27).
-- 👀 I’m interested in cloud technology,cyber security,application development.
-- 🌱 I’m currently learning Blockchain.
-- 💞️ I am eagerly looking forward to intenship chances.
-- 📫 How to reach me in [linkedin](https://www.linkedin.com/in/parthasarathy-g)
+### About Me:
+- 🖥️ Passionate about cloud technology, cyber security, and application development.
+- 🌱 Currently diving deep into Blockchain.
+- 💼 Actively seeking internship opportunities.
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/parthasarathy-g).
+
+### Skills:
+- 💻 Programming Languages: Java, c, JavaScript
+- ☁️ Cloud Platforms: Google Cloud, AWS
+- 🔒 Cybersecurity: Penetration Testing
+- 📱 Application Development: React, Node.js, Express.js, MongoDB
 
 <!---
 Parthasarathy27/parthasarathy27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
