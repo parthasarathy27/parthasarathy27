@@ -1,16 +1,5 @@
-<div align="center">
-<h1>
-  Hi! 👋 There, I'm <a href="https://www.linkedin.com/in/parthasarathy-g/" target="_blank" rel="noreferrer">parthasarathy</a>
-</h1>
-</div>
 
-<h2 align="center">
-I'm a cloud  ☁️ Engineer | Hacktoberfest Contributer✨ | Currently learning #blockchain👨‍💻 | Intrested on #future-📺technology | favorite subject #cybersecurity ♻️ | Designer 🎨!!
-</h2> 
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+![README Github Banner](https://github.com/parthasarathy27/parthasarathy27/assets/83574852/48981342-93cd-476d-a58f-964730afb558)
 
 ### About Me:
 - 🖥️ Passionate about cloud technology, cyber security, and application development.
