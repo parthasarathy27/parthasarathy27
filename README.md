@@ -1,4 +1,4 @@
-![README Github Banner](https://raw.githubusercontent.com/parthasarathy27/parthasarathy27/main/README%20Github%20Banner.png)
+![README GitHub Banner](https://raw.githubusercontent.com/parthasarathy27/parthasarathy27/main/README%20Github%20Banner.png)
 
 ### About Me:
 - 🖥️ Passionate about cloud technology, cyber security, and application development.
