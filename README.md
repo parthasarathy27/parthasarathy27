@@ -1,4 +1,3 @@
-
 ![README Github Banner](https://raw.githubusercontent.com/parthasarathy27/parthasarathy27/main/README%20Github%20Banner.png)
 
 ### About Me:
