@@ -12,11 +12,6 @@
 - 🔒 Cybersecurity: Penetration Testing
 - 📱 Application Development: React, Node.js, Express.js, MongoDB
 
-<!---
-Parthasarathy27/parthasarathy27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 ## 💼 Technical Skills:
 
 <p align="center"> 
