@@ -1,55 +1,52 @@
+# Parthasarathy's Profile
+
 ![README GitHub Banner](https://raw.githubusercontent.com/parthasarathy27/parthasarathy27/main/README%20Github%20Banner.png)
 
-<!-- Menu Bar -->
-<div style="background-color: #333; padding: 10px;">
-    <a href="#about-me" style="color: white; text-decoration: none; margin-right: 20px;">About Me</a>
-    <a href="#skills" style="color: white; text-decoration: none; margin-right: 20px;">Skills</a>
-    <a href="#technical-skills" style="color: white; text-decoration: none; margin-right: 20px;">Technical Skills</a>
-    <a href="#hacktoberfest-badges" style="color: white; text-decoration: none; margin-right: 20px;">HacktoberFest Badges</a>
-    <a href="#github-stats" style="color: white; text-decoration: none; margin-right: 20px;">GitHub Stats</a>
-</div>
+## About Me
 
-### About Me:
 - 🖥️ Passionate about cloud technology, cyber security, and application development.
 - 🌱 Currently diving deep into Blockchain.
 - 💼 Actively seeking internship opportunities.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/parthasarathy-g).
 
-### Skills:
-- 💻 Programming Languages: Java, c, JavaScript
-- ☁️ Cloud Platforms: Google Cloud, AWS
-- 🔒 Cybersecurity: Penetration Testing
-- 📱 Application Development: React, Node.js, Express.js, MongoDB
+## Skills
 
-## 💼 Technical Skills:
+### Programming Languages
+- Java
+- C
+- JavaScript
 
-<p align="center"> 
-<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
- <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
- <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
- <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
- <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
- <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
- <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
- <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
- <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
-    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-    <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-    <img alt="Kubernets" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
-    <img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
-    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-    <img alt="Microsoft Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-    <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-</p>
+### Cloud Platforms
+- Google Cloud
+- AWS
 
-## 🎖️ HacktoberFest Badges:
+### Cybersecurity
+- Penetration Testing
 
-[![Holopin board](https://holopin.me/partha_sarathy_76)](https://holopin.io/@partha_sarathy_76) 
+### Application Development
+- React
+- Node.js
+- Express.js
+- MongoDB
 
-## 🚀 GitHub Stats
+## Technical Skills Badges
 
-![NovaAlliance's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parthasarathy27&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parthasarathy27&layout=compact&theme=radical)
+[![C Badge](https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Java Badge](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![JavaScript Badge](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+[![Google Cloud Badge](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+[![AWS Badge](https://img.shields.io/badge/AWS-%23232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+
+[![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+[![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![MongoDB Badge](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B)](https://www.mongodb.com/)
+
+## HacktoberFest Badges
+
+[![Holopin Board](https://holopin.me/partha_sarathy_76)](https://holopin.io/@partha_sarathy_76)
+
+## GitHub Stats
+
+![Parthasarathy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parthasarathy27&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parthasarathy27&layout=compact&theme=radical)
