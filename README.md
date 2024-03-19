@@ -1,5 +1,14 @@
 ![README GitHub Banner](https://raw.githubusercontent.com/parthasarathy27/parthasarathy27/main/README%20Github%20Banner.png)
 
+<!-- Menu Bar -->
+<div style="background-color: #333; padding: 10px;">
+    <a href="#about-me" style="color: white; text-decoration: none; margin-right: 20px;">About Me</a>
+    <a href="#skills" style="color: white; text-decoration: none; margin-right: 20px;">Skills</a>
+    <a href="#technical-skills" style="color: white; text-decoration: none; margin-right: 20px;">Technical Skills</a>
+    <a href="#hacktoberfest-badges" style="color: white; text-decoration: none; margin-right: 20px;">HacktoberFest Badges</a>
+    <a href="#github-stats" style="color: white; text-decoration: none; margin-right: 20px;">GitHub Stats</a>
+</div>
+
 ### About Me:
 - 🖥️ Passionate about cloud technology, cyber security, and application development.
 - 🌱 Currently diving deep into Blockchain.
