@@ -1,10 +1,13 @@
 ![README GitHub Banner](https://raw.githubusercontent.com/parthasarathy27/parthasarathy27/main/README%20Github%20Banner.png)
 
-### About Me:
-Hey there! I'm Parthasarathy, a tech enthusiast with a passion for cloud technology, cybersecurity, and application development. Currently, I'm exploring the realms of Blockchain and actively seeking internship opportunities. Connect with me on [LinkedIn](https://www.linkedin.com/in/parthasarathy-g)!
+## About Me 💻
+
+Hey there! I'm Parthasarathy, a tech enthusiast with a passion for cloud technology, cybersecurity, and application development. Currently, I'm exploring the realms of Blockchain and actively seeking internship opportunities. 
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/parthasarathy-g)!
 
 
-### Skills 💻:
+## Skills 💻:
 
 | Category            | Skills                                                       |
 |---------------------|--------------------------------------------------------------|
