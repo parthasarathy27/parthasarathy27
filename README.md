@@ -7,7 +7,7 @@ Hey there! I'm Parthasarathy, a tech enthusiast with a passion for cloud technol
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/parthasarathy-g)
 
 
-## Skills💡
+## Skills 💡
 
 | Category            | Skills                                                       |
 |---------------------|--------------------------------------------------------------|
@@ -16,7 +16,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/parthasar
 | 🔒Cybersecurity       | Penetration Testing                                          |
 | 📱Application Dev     | React, Node.js, Express.js, MongoDB                          |
 
-## Technical Skills👾
+## Technical Skills 👾
 
 <p align="center"> 
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
@@ -41,10 +41,10 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/parthasar
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
-## HacktoberFest Badges🏅
+## HacktoberFest Badges 🏅
 
 [![Holopin board](https://holopin.me/partha_sarathy_76)](https://holopin.io/@partha_sarathy_76) 
 
-## GitHub Stats🚀
+## GitHub Stats 🚀
 
 ![NovaAlliance's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parthasarathy27&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parthasarathy27&layout=compact&theme=radical)
