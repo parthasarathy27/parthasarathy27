@@ -11,10 +11,10 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/parthasar
 
 | Category            | Skills                                                       |
 |---------------------|--------------------------------------------------------------|
-| 💻Programming         | Java, C, JavaScript                                          |
-| ☁️Cloud Platforms     | Google Cloud, AWS                                            |
-| 🔒Cybersecurity       | Penetration Testing                                          |
-| 📱Application Dev     | React, Node.js, Express.js, MongoDB                          |
+| 💻 Programming         | Java, C, JavaScript                                          |
+| ☁️ Cloud Platforms     | Google Cloud, AWS                                            |
+| 🔒 Cybersecurity       | Penetration Testing                                          |
+| 📱 Application Dev     | React, Node.js, Express.js, MongoDB                          |
 
 ## Technical Skills 👾
 
