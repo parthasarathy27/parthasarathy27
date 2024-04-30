@@ -48,9 +48,3 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/parthasar
 ## GitHub Stats 🚀
 
 ![NovaAlliance's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parthasarathy27&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parthasarathy27&layout=compact&theme=radical)
-
-## My GitHub Stats
-
-[![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=parthasarathy27)](https://git.io/streak-stats)
-
-<!-- Other GitHub Stats Here -->
