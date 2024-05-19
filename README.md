@@ -5,7 +5,6 @@ Hey there! I'm Parthasarathy👋, a tech enthusiast with a passion for cloud tec
 
 Feel free to connect with me on [LinkedIn!](https://www.linkedin.com/in/parthasarathy-g)
 
-
 ## Skills 💡
 
 | Category            | Skills                                                       |
