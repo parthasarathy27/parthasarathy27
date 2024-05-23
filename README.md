@@ -43,6 +43,6 @@ Feel free to connect with me on [LinkedIn!](https://www.linkedin.com/in/parthasa
 
 [![Holopin board](https://holopin.me/partha_sarathy_76)](https://holopin.io/@partha_sarathy_76) 
 
-## GitHub Stats 🚀
+## GitHub Status 🚀
 
 ![NovaAlliance's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parthasarathy27&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parthasarathy27&layout=compact&theme=radical)
