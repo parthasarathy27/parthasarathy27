@@ -45,12 +45,9 @@ Feel free to connect with me on [LinkedIn!](https://www.linkedin.com/in/parthasa
 [![Holopin board](https://holopin.me/partha_sarathy_76)](https://holopin.io/@partha_sarathy_76) 
 
 ## GitHub Status 🚀  
-
-<p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=parthasarathy27&show_icons=true&theme=radical&hide_border=true" height="165"/>
 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=parthasarathy27&layout=compact&theme=radical&hide_border=true" height="165"/>
-</p>
 
 ## GitHub Contribution🥏
 
