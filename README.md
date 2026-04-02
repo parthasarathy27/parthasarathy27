@@ -46,9 +46,12 @@ Feel free to connect with me on [LinkedIn!](https://www.linkedin.com/in/parthasa
 
 ## GitHub Status 🚀  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parthasarathy27&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parthasarathy27&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" height="165"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthasarathy27&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" height="165"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parthasarathy27&layout=compact&theme=radical&hide_border=true&cache_seconds=1800)
 
 ## GitHub Contribution🥏
 
